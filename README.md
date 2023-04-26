@@ -14,6 +14,7 @@
 #### Objetivo
 Deberán replicar la siguiente página principal con lo visto en clase hasta el momento, se recomienda usar Bootstrap.
 
+![](images/final_front_2021.jpg)
 
 #### Tecnologías utilizadas:
 - HTML
