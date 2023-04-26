@@ -1,0 +1,4 @@
+{
+    "vue.features.codeActions.savingTimeLimit": 2000,
+    "vue.features.codeActions.enable": false
+}

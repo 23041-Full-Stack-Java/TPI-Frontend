@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.banner {
+    display: flex;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/hawaii.jpg);
+    height: 40rem;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+
+}
+
+.caja_texto {
+    width: 50%;
+    padding: 1%;
+    margin: 5%;
+    color: whitesmoke;
+    text-align: right;
+}
+
+.botones {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1%;
+    gap: 2rem;
+}
+
+.titulos {
+    margin: 1rem;
+}
+
+.lugar {
+    display: flex;
+    margin-top: 1%;
+    background-color: dimgrey;
+    color: whitesmoke;
+
+}
+
+.box1 {
+    width: 50%;
+    height: 50vh;
+    background-image: url(/images/honolulu.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin-right: 1%;
+    padding: 1%;
+}
+
+.box2 {
+    width: 50%;
+    height: 50vh;
+    padding: 2%;
+}
+
+.contacto {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+
+}
+
+.form-floating {
+    margin-top: 1%;
+
+
+}
+
+.footer {
+    background-color: rgba(30, 81, 110);
+    color: whitesmoke;
+    margin-top: 1%;
+
+}
+
+
+.footer ul li {
+    max-width: min-content;
+
+}
