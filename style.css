@@ -62,24 +62,35 @@
     display: flex;
     justify-content: center;
     margin: 1rem;
-
 }
 
 .form-floating {
     margin-top: 1%;
-
-
 }
 
 .footer {
     background-color: rgba(30, 81, 110);
     color: whitesmoke;
     margin-top: 1%;
-
 }
-
 
 .footer ul li {
     max-width: min-content;
+}
 
+/* Estilos pagina Comprar Tickets */
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.d-flex{
+    background-color: rgba(204, 229, 255);
+    height: 4rem;
+    border-radius: 0.5rem;
+    align-items: center;
+    font-weight: 500;
+    font-size: 1.5rem;
+    
+    
 }
