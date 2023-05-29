@@ -16,8 +16,15 @@ Deberán replicar la siguiente página principal con lo visto en clase hasta el 
 
 ![](images/final_front_2021.jpg)
 
+### Segunda parte: agregado de página "Comprar tickets"
+- Formulario con validación de campos
+- Utilización de Javascript para el cálculo del total a pagar
+
+![](images/vista-ipad-comprar.png)
+
 #### Tecnologías utilizadas:
 - HTML
 - CSS
 - Bootstrap
+- Javascript
 
