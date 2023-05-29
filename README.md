@@ -20,7 +20,7 @@ Deberán replicar la siguiente página principal con lo visto en clase hasta el 
 - Formulario con validación de campos
 - Utilización de Javascript para el cálculo del total a pagar
 
-![](images/vista-ipad-comprar.png)
+![](images/vista-ipad-comprar.jpg)
 
 #### Tecnologías utilizadas:
 - HTML
